@@ -1,5 +1,5 @@
 <p align=center>
-    <b>You're probably looking for <a href="https://record-jar.github.io/">record-jar.github.io</a></b>
+    <b>You're probably looking for <a href="https://record-jar.github.io/record-jar/">record-jar.github.io/record-jar</a></b>
 </p>
 
 # Record Jar specification
