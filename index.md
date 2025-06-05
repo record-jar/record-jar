@@ -1,8 +1,6 @@
 - https://datatracker.ietf.org/doc/html/draft-phillips-record-jar-02
 - http://www.catb.org/~esr/writings/taoup/html/ch05s02.html#id2906931
 
-# Record-Jar Specification
-
 <img align=right height=100 src="logo.png">
 
 This version: [https://record-jar.github.io/record-jar/](https://record-jar.github.io/record-jar/) \
