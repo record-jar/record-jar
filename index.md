@@ -3,6 +3,8 @@
 
 # Record-Jar Specification
 
+<img align=right height=100 src="logo.png">
+
 This version: [https://record-jar.github.io/record-jar/](https://record-jar.github.io/record-jar/) \
 Participate: [https://github.com/record-jar/record-jar](https://github.com/record-jar/record-jar) \
 Issue tracking: [GitHub](https://github.com/record-jar/record-jar/issues) \
